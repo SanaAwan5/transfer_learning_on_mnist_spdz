@@ -1,0 +1,2 @@
+/panfs/panfs.ittc.ku.edu/scratch/sanaawan/PySyft/venv/bin/python
+/var/spool/slurm/tmp/job316217/slurm_script: line 15: 27004 Illegal instruction     python examples/tutorials/transfer_learning1.py
